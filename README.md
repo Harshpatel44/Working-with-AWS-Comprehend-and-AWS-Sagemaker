@@ -7,3 +7,5 @@
 <p>4. Comprehend is called to detect sentiment for the file present in the S3 bucket. </p>
 <p>5. As Comprehend doesnt take more than 5000 bytes at a time and our text file is quite big, we will now use nltk to sentence tokenize the whole text and pass each sentence one by one.
   
+<h2> References </h2>
+<i>https://aws.amazon.com/blogs/compute/using-aws-lambda-and-amazon-comprehend-for-sentiment-analysis/</i>
