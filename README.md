@@ -19,3 +19,4 @@
 <h2> References </h2>
 <i>https://aws.amazon.com/blogs/compute/using-aws-lambda-and-amazon-comprehend-for-sentiment-analysis/</i>
 <i>http://www.nltk.org/howto/metrics.html</i>
+<i>https://medium.com/@pekelny/how-to-unit-test-an-aws-lambda-524069d4fe06</i>
