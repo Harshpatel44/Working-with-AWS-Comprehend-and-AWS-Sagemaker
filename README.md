@@ -17,6 +17,6 @@
 <p>5. Now our testing and training data is ready for SageMaker K means algorithm. </p>
 
 <h2> References </h2>
-<i>https://aws.amazon.com/blogs/compute/using-aws-lambda-and-amazon-comprehend-for-sentiment-analysis/</i>
-<i>http://www.nltk.org/howto/metrics.html</i>
+<i>https://aws.amazon.com/blogs/compute/using-aws-lambda-and-amazon-comprehend-for-sentiment-analysis/</i> &nbsp
+<i>http://www.nltk.org/howto/metrics.html</i> &nbsp
 <i>https://medium.com/@pekelny/how-to-unit-test-an-aws-lambda-524069d4fe06</i>
