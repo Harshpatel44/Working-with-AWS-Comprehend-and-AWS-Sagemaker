@@ -1,5 +1,4 @@
-# Serverless-A4
-
+<h1>Working with AWS Comprehend and AWS Sagemaker</h1>
 <h2> Working with AWS Comprehend </h2>
 <p>1. Uploaded a file on a new bucket. </p>
 <p>2. Lambda function created with default role, and a new policy added to access Comprehend and logs.</p>
